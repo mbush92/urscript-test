@@ -1,0 +1,3 @@
+global demoVariable = thisIsATestScript(1, False)
+
+testScript("What's up?")

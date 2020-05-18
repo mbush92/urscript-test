@@ -1,0 +1,6 @@
+def thisIsATestScript(index, val):
+  if (index == 0):
+    return True
+  end
+  return val
+end

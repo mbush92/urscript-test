@@ -1,0 +1,3 @@
+def testScript(val):
+  textmsg(val)
+end
