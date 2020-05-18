@@ -1,0 +1,1 @@
+local c = add2Numbers(2 + 4)

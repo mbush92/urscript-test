@@ -1,0 +1,5 @@
+def add2Numbers(a, b):
+  return a + b
+end
+
+local c = add2Numbers(2 + 4)
